@@ -1,4 +1,4 @@
-# Query on OpenCL-based FPGAs
+# Query Processing on OpenCL-based FPGAs
 
 ## Prerequisites
 * Altera OpenCL SDK version 14.0
